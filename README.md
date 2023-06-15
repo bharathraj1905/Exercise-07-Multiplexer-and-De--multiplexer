@@ -122,12 +122,12 @@ endmodule
 
 ### MULTIPLEXER
 
-![multiplexer truth table](https://github.com/bharathraj1905/Exercise-07-Multiplexer-and-De--multiplexer/assets/121490575/e1501594-8763-4819-aad9-7c4038732a6f)
+![truth 7 1](https://github.com/bharathraj1905/Exercise-07-Multiplexer-and-De--multiplexer/assets/121490575/f9420906-9d65-428e-9e96-fb7a0264bc7c)
 
 
 ### DEMULTIPLEXER
 
-![demultiplexer truth table](https://github.com/bharathraj1905/Exercise-07-Multiplexer-and-De--multiplexer/assets/121490575/ec4a0f4b-776b-4c0f-856a-04e82d8335e1)
+![truth ex 7 2](https://github.com/bharathraj1905/Exercise-07-Multiplexer-and-De--multiplexer/assets/121490575/b61d110b-7db1-4e4f-b7c1-12c599c26f2e)
 
 
 ### RESULTS 
